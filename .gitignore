@@ -1,5 +1,4 @@
 rangers_env
 __pycache__
-app.db
 migrations
 .env
